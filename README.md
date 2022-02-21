@@ -7,6 +7,8 @@ Vamos lá, vou descrever o funcionamento dos meus algorítimos
 
 OBS: lembrando, todos são executados através do Eclipse, ou qualquer outro IDE de vossa preferência.
 
+OBS:todas as classes mencionadas encontran-se na pasta SRC, nos seus respectivos pacotes
+
 Algorítmo 1 , desafio da Escadinha:
 Localiza-se no pacote "desafio1teste" através da classe 'TesteEscadinha.java", a qual possui o método main
 Ali, é só acrescentar ao método "InfraE.ladder(23)" o número de degraus e executar, neste caso esta 23 nó código, podendo ser alterado.
