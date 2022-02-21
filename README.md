@@ -25,7 +25,8 @@ mas Java é totalmente diferente, e esse código melhorou bastante do feito em P
 Pois aqui utilizei a soma dos bytes da tabela asc para que o algorítimo chegasse a conclusão que uma palavra tem as mesmas letras, só em ordem diferente.
 Na classe já tem uma lista de Strings para teste, podendo-se acrescentar mais palavras se necessário.
 
-Bom, desde já agradeço a atenção de todos envolvidos, pedindo já antecipadamente desculpas por algo, afinal, estou diante de gigantes da programação, mas
+Bom, desde já agradeço a atenção de todos envolvidos, pedindo já antecipadamente desculpas por algo, se não foi isso que pediram,
+mas eu creio que mais vale tentar, do que desistir afinal, estou diante de gigantes da programação, mas
 com certeza chegarei la um dia.
 
 Abraços
